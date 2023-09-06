@@ -23,4 +23,5 @@ Entradas:
 
 Ao abrir o prompt de comandos, deve-se direcionar-se à pasta \bin do arquivo e executar o comando
 * (i)  java application/Program
+
 Logo após, o Reader do programa informará ao usuário o que está sendo requisitado. 
