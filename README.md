@@ -13,7 +13,7 @@ Entradas:   - Departments Name (String)
             - Value per hour (Double)
             - Duration (Intenger)
 
-![UML](http://developer.r-project.org/Logo/Rlogo-5.png)
+![UML](https://github.com/JoaoSantos6/Workers-Contract-Controller/assets/78502928/18623478-d380-4d3a-815a-b2adc4852cda)
 
 ### 2. Tecnologias utilizadas
 - Java 17
